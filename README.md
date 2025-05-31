@@ -7,10 +7,10 @@ No Harmfull code in the codebase! I will check through your code before acseptin
 The added code Must be usefull in some way. E.G. adding new commands, or twitch pings.
 
 <p align="center">
-  <img alt="Space Station 14" width="600" src="Rec/Logo.png" />
+  <img alt="Space Station 14" width="100" src="Rec/Logo.png" />
 </p>
 
 ## Discord
 <div class="header" align="center">
 
-[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/R7C79SN4)
+[![Discord](https://img.shields.io/discord/1263420905174859806?label=Discord&logo=discord&logoColor=white)](https://discord.gg/R7C79SN4)
