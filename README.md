@@ -2,9 +2,10 @@
 Discord bot for Digitals discord server.
 
 ## Rules
-The added code Must work and be tested on your local pc before attempting to submit a pull requst.
-No Harmfull code in the codebase! I will check through your code before acsepting your pull requst.
-The added code Must be usefull in some way. E.G. adding new commands, or twitch pings.
+1. The added code Must work and be tested on your local pc before attempting to submit a pull requst.
+2. No Harmfull code in the codebase! I will check through your code before acsepting your pull requst.
+3. The added code Must be usefull in some way. E.G. adding new commands, or twitch pings.
+4. More rules will be added later :3
 
 <p align="center">
   <img alt="Space Station 14" width="100" src="Rec/Logo.png" />
